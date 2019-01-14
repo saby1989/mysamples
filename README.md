@@ -1,2 +1,2 @@
 # bokeh_samples
-bokeh codesh
+This is for tutorial purpose.
