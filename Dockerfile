@@ -12,4 +12,4 @@ RUN pip3 install -r requirements.txt
 RUN chmod +x run.sh
 
 #command to run the script
-CMD ["/bin/bash" ,"run.sh"]
+CMD ["sh" ,"run.sh"]
